@@ -3,6 +3,12 @@ title: Long March Red Digital Cultural Resources Knowledge Graph Service Model
   for Youth Education
 publication_types:
   - "1"
+authors:
+  - L. Guo
+  - X. Chen
+  - J. Wu
+  - Y. Jiang
+  - et.al.
 publication: Lingnan Academic Forum 2021
 publication_short: Lingnan Academic Forum 2021
 draft: false
