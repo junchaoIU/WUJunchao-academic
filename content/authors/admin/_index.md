@@ -2,8 +2,8 @@
 title: WU Junchao
 role: Undergraduate Student
 avatar_filename: avatar.jpg
-bio: My research interests include distributed robotics, mobile computing and
-  programmable matter.
+bio: My research interests include Natural Langage Processing, Computational
+  Linguistics, Information Retrieval.
 interests:
   - Natural Langage Processing
   - Computational Linguistics
