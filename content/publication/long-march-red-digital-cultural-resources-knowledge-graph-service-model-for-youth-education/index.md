@@ -11,6 +11,8 @@ authors:
   - et.al.
 publication: Lingnan Academic Forum 2021
 publication_short: Lingnan Academic Forum 2021
+abstract: Long March Red Digital Cultural Resources Knowledge Graph Service
+  Model for Youth Education
 draft: false
 featured: false
 image:
