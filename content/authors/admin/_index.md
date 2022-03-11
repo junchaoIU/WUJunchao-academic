@@ -1,7 +1,7 @@
 ---
 title: WU Junchao
 role: Student
-avatar_filename: 561628e1e726859e9cf37ca6e33ebe8.jpg
+avatar_filename: avatar.jpg
 bio: My research interests include distributed robotics, mobile computing and
   programmable matter.
 interests:
@@ -20,20 +20,14 @@ organizations:
     url: https://english.bnuz.edu.cn/
 education:
   courses:
-    - course: PhD in Artificial Intelligence
-      institution: Stanford University
-      year: 2012
-    - course: MEng in Artificial Intelligence
-      institution: Massachusetts Institute of Technology
-      year: 2009
-    - course: BSc in Artificial Intelligence
-      institution: Massachusetts Institute of Technology
-      year: 2008
+    - course: BSc in Information Management and Information System
+      institution: Beijing Normal University, Zhuhai
+      year: 2022
 email: ""
 superuser: true
 highlight_name: true
 ---
-* 👋 Hi, I’m @junchaoIU, from ZHA, China.
+* 👋 Hi, I’m WU Junchao from ZHA, China.
 * 👀 I’m focusing on Information Science、Knowledge Graph, Natural language processing and data mining at the moment
 * 🌱 I’m currently a senior student and rapt in NLP, ML and DL
 * 📫 if you have any questions or ideas, please feel free to contact with my by my Email: [wujunchaoIU@outlook.com](mailto:wujunchaoIU@outlook.com). I'm looking forward for a nice sharing or a great cooperation.
