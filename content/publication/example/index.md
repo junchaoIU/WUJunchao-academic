@@ -1,79 +1,58 @@
 ---
-title: "An example conference paper"
-
-# Authors
-# If you created a profile for a user (e.g. the default `admin` user), write the username (folder name) here 
-# and it will be replaced with their full name and linked to their profile.
+abstract: In order to more efficiently meet people's in-depth needs for
+  knowledge acquisition and research, and to more effectively develop and use
+  "the Canton Canon" historical archives, we designed and constructed the Canton
+  Revolutionary History Knowledge Graph based on the revolutionary archives of
+  Canton during the Republic of China. We associated the knowledge graph with
+  the document corpus, transformed and combined the traditional digital library
+  from document information management to knowledge management, and proposed a
+  double-Layer retrieval mode of the document corpus based on the knowledge
+  graph. At the same time, we developed "the Canton Canon" digital library based
+  on the knowledge graph, and introduced the design and application of the
+  digital library. It provides a great example of how to use huge archives more
+  efficiently and build a more open digital library. What's more, it also opens
+  up new ideas for the transformation of Chinese digital libraries from
+  information management to knowledge management.
+slides: ""
+url_pdf: ""
+publication_types:
+  - "1"
 authors:
-- admin
-- Robert Ford
-
-# Author notes (optional)
+  - J. Wu
+  - Y. Jiang
+  - X. Chen
+  - L. Guo
+  - X. Wei and X. Yang
 author_notes:
-- "Equal contribution"
-- "Equal contribution"
-
-date: "2013-07-01T00:00:00Z"
-doi: ""
-
-# Schedule page publish date (NOT publication's date).
-publishDate: "2017-01-01T00:00:00Z"
-
-# Publication type.
-# Legend: 0 = Uncategorized; 1 = Conference paper; 2 = Journal article;
-# 3 = Preprint / Working Paper; 4 = Report; 5 = Book; 6 = Book section;
-# 7 = Thesis; 8 = Patent
-publication_types: ["1"]
-
-# Publication name and optional abbreviated publication name.
-publication: In *Wowchemy Conference*
-publication_short: In *ICW*
-
-abstract: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere tellus ac convallis placerat. Proin tincidunt magna sed ex sollicitudin condimentum. Sed ac faucibus dolor, scelerisque sollicitudin nisi. Cras purus urna, suscipit quis sapien eu, pulvinar tempor diam. Quisque risus orci, mollis id ante sit amet, gravida egestas nisl. Sed ac tempus magna. Proin in dui enim. Donec condimentum, sem id dapibus fringilla, tellus enim condimentum arcu, nec volutpat est felis vel metus. Vestibulum sit amet erat at nulla eleifend gravida.
-
-# Summary. An optional shortened abstract.
-summary: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere tellus ac convallis placerat. Proin tincidunt magna sed ex sollicitudin condimentum.
-
-tags: []
-
-# Display this page in the Featured widget?
+  - Equal contribution
+  - Equal contribution
+publication: In *2021 10th International Conference on Educational and
+  Information Technology (ICEIT)*
+summary: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere
+  tellus ac convallis placerat. Proin tincidunt magna sed ex sollicitudin
+  condimentum.
+url_dataset: ""
+url_project: ""
+publication_short: In *2021 10th International Conference on Educational and
+  Information Technology (ICEIT)*
+url_source: ""
+url_video: ""
+title: '"The Canton Canon" Digital Library Based on Knowledge Graph '
+subtitle: Taking the Revolutionary Archives of Canton in the Republic of China
+  as an Example
+doi: 10.1109/ICEIT51700.2021.9375538
 featured: true
-
-# Custom links (uncomment lines below)
-# links:
-# - name: Custom Link
-#   url: http://example.org
-
-url_pdf: ''
-url_code: ''
-url_dataset: ''
-url_poster: ''
-url_project: ''
-url_slides: ''
-url_source: ''
-url_video: ''
-
-# Featured image
-# To use, add an image named `featured.jpg/png` to your page's folder. 
+tags: []
+projects: []
 image:
-  caption: 'Image credit: [**Unsplash**](https://unsplash.com/photos/pLCdAaMFLTE)'
+  caption: "Image credit: [**Unsplash**](https://unsplash.com/photos/pLCdAaMFLTE)"
   focal_point: ""
   preview_only: false
-
-# Associated Projects (optional).
-#   Associate this publication with one or more of your projects.
-#   Simply enter your project's folder or file name without extension.
-#   E.g. `internal-project` references `content/project/internal-project/index.md`.
-#   Otherwise, set `projects: []`.
-projects:
-- example
-
-# Slides (optional).
-#   Associate this publication with Markdown slides.
-#   Simply enter your slide deck's filename without extension.
-#   E.g. `slides: "example"` references `content/slides/example/index.md`.
-#   Otherwise, set `slides: ""`.
-slides: example
+date: 2013-07-01T00:00:00Z
+url_slides: ""
+publishDate: 2017-01-01T00:00:00Z
+url_poster: ""
+url_code: ""
 ---
 
 {{% callout note %}}
