@@ -1,6 +1,6 @@
 ---
 title: WU Junchao
-role: Student
+role: Undergraduate Student
 avatar_filename: avatar.jpg
 bio: My research interests include distributed robotics, mobile computing and
   programmable matter.
